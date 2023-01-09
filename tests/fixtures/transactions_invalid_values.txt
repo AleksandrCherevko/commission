@@ -1,0 +1,2 @@
+{}
+{"bin":45717360,"amount":"100","currency":"EUR"}
